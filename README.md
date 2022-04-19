@@ -1,4 +1,4 @@
-## Olá, sou Lucas Santos estudante de Sistemas de Informação pela UFPA.
+## Hi there! Me chamo Lucas Santos, sou estudante de Sistemas de Informação pela UFPA.
 <div>
   <a href: "https://github.com/DEV-LUK4Z">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DEV-LUK4Z&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
