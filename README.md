@@ -1,4 +1,4 @@
-# Sobre min:
+# Sobre mim:
 > Estou cursando Sistemas de Informação pela UFPA<br>> Gosto de tecnologias, astronomia e games<br>> Em busca de uma oportunidade de aperfeiçoar minhas habilidades<br>> Gosto de programação mas tenho um apreço por gerencia...
 
 
