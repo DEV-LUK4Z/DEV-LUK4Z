@@ -1,5 +1,5 @@
 # Sobre mim:
-> Estou cursando Sistemas de Informação pela UFPA<br>> Gosto de tecnologias, astronomia, games e gatinhos<br>>
+> Estou cursando Sistemas de Informação pela UFPA<br>> Gosto de tecnologias, astronomia, games e gatinhos<br>
 
 
 ## Onde me encontrar:
