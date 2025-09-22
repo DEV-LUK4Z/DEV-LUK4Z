@@ -1,9 +1,5 @@
 # Olá, eu sou o Lucas Santos! 👋
 
-<div align="center">
-  <img src="https://media.tenor.com/yPiTwzS8p8gAAAAC/cat-paws-cute-cats.gif" width="400">
-</div>
-
 <br>
 
 Desenvolvedor e pesquisador de tecnologias imersivas, recém-formado em **Sistemas de Informação** pela **Universidade Federal do Pará (UFPA)**.
@@ -81,10 +77,9 @@ Embora eu não tenha experiência de mercado formal, desenvolvi habilidades prá
 
 ---
 
-### E mais um gatinho aleatório para alegrar seu dia :)
-
+### E um gatinho aleatório para alegrar seu dia :)
 <div align="center">
-  <img src="http://placekitten.com/g/500/300">
+  <img src="https://media.tenor.com/yPiTwzS8p8gAAAAC/cat-paws-cute-cats.gif" width="400">
 </div>
 
 [![](https://visitcount.itsvg.in/api?id=DEV-LUK4Z&icon=9&color=8)](https://visitcount.itsvg.in)
